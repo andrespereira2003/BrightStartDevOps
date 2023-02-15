@@ -17,4 +17,3 @@ jobs:
         context: .
         push: true
         tags: andrepereiradeloitte/brightstarts-andrepereira:${{ github.run_number }}
-        asdasd
